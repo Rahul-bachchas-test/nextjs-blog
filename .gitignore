@@ -3,6 +3,8 @@
 # dependencies
 /node_modules
 /.pnp
+/allure-results
+/allure-report
 .pnp.js
 
 # testing
