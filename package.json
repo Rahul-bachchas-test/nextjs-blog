@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-	"test":"jest",
-	"report-generate":"allure generate --clean"
+    "test": "jest"
   },
   "dependencies": {
     "next": "9.3.5",
@@ -15,6 +14,7 @@
     "react-dom": "16.13.1"
   },
   "devDependencies": {
+    "allure-commandline": "^2.13.0",
     "allure-jasmine": "^2.0.0-beta.8",
     "eslint-plugin-jest": "^24.0.0",
     "jest": "^26.4.2"
