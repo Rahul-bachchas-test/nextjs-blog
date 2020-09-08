@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-	"test":"jest"
+	"test":"jest",
+	"report-generate":"allure generate --clean"
   },
   "dependencies": {
     "next": "9.3.5",
